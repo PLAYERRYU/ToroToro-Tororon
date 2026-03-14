@@ -1,0 +1,3 @@
+echo off
+start root_date\management_tools\log_Monitor_sever_01.bat
+start root_date\management_tools\log_Monitor_sever_02.bat
